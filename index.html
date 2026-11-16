@@ -1198,7 +1198,7 @@ body.intro .list { animation: up .55s 1.25s both; }
   setInterval(tick, 1000); tick();
 
   /* ---------- data in: today's dates from data.json, your progress from this browser ---------- */
-  var DATA_URL = "https://rohanadhikari24.github.io/track-27/data.json";
+  var DATA_URL = "https://track27.netlify.app/data.json";
   function useData(d, cached) {
     state.local = !!cached; state.meta = { checkedAt: d.checkedAt, note: d.note };
     applyForms(d.forms); renderFresh();

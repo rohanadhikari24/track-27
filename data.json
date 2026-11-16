@@ -1,0 +1,642 @@
+{
+ "checkedAt": "2026-11-16T04:50:00Z",
+ "note": "No changes today. SPJIMR, MDI, XAT and IIT Delhi dates and fees match their own sites. No extension seen for FMS or IIFT.",
+ "forms": {
+  "cat-2026": {
+   "checkNote": "The exam date is confirmed. The later dates are the usual pattern, not announcements.",
+   "checked": "2026-11-16",
+   "closes": "2026-09-22",
+   "dateStatus": "confirmed",
+   "examDate": "2026-11-29",
+   "examName": "CAT 2026",
+   "facts": [
+    {
+     "label": "Last year",
+     "value": "CAT 2025 was on 30 Nov 2025 and the result came on 24 Dec 2025"
+    },
+    {
+     "label": "Score valid till",
+     "value": "31 Dec 2027"
+    }
+   ],
+   "feeText": "Already paid",
+   "formLabel": "CAT registration",
+   "group": "tier1",
+   "name": "IIMs (through CAT 2026)",
+   "notes": "Admit cards are out. After the result, each IIM that shortlists you asks for its own form within a few days. The daily check adds those here as they open.",
+   "official": false,
+   "opens": "2026-08-03",
+   "order": 0,
+   "programme": "Old six IIMs and IIM Mumbai",
+   "route": "One CAT registration covers them all",
+   "short": "IIMs (CAT)",
+   "source": "https://www.talkdrill.com/blog/exams/mba-interview/cat-2026-dates-result-and-shortlists/",
+   "sourceName": "TalkDrill",
+   "stages": [
+    {
+     "date": "2026-11-29",
+     "dateStatus": "confirmed",
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026"
+    },
+    {
+     "dateStatus": "tentative",
+     "key": "result",
+     "kind": "result",
+     "label": "CAT result",
+     "when": "Likely by the first week of Jan 2027"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "IIM shortlists",
+     "when": "Jan 2027, each IIM posts its own list"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "WAT and interviews",
+     "when": "Feb to Mar 2027"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final offers",
+     "when": "Apr to May 2027"
+    }
+   ],
+   "formDone": true
+  },
+  "fms-delhi": {
+   "checkNote": "Fee, eligibility and selection weights are from the FMS bulletin. The bulletin does not print the closing date, so 25 Nov comes from MBAUniverse and Careers360.",
+   "checked": "2026-11-16",
+   "closes": "2026-11-25",
+   "dateStatus": "confirmed",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "50% in graduation"
+    },
+    {
+     "label": "Shortlist",
+     "value": "On your CAT score, weighted VARC 40%, DILR 30%, QA 30%"
+    },
+    {
+     "label": "Final selection",
+     "value": "CAT 50%, Class X 10%, Class XII 10%, statement of purpose 10%, extempore 5%, interview 15%"
+    },
+    {
+     "label": "Programme fee",
+     "value": "About ₹65,075 a semester"
+    }
+   ],
+   "fee": 1000,
+   "feeText": "₹1,000",
+   "group": "tier1",
+   "name": "FMS Delhi",
+   "notes": "Asks for your CAT 2026 registration number. Last year the deadline slipped by two days, but do not plan around an extension.",
+   "official": false,
+   "opens": "2026-10-26",
+   "order": 1,
+   "portal": "https://www.fms.edu/programmes/mba-full-time",
+   "programme": "MBA (Full-Time)",
+   "route": "Uses your CAT 2026 score",
+   "short": "FMS",
+   "source": "https://www.mbauniverse.com/articles/fms-delhi-admission",
+   "sourceName": "MBAUniverse",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "Not announced. Around Feb last cycle"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "Extempore and interview",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final list",
+     "when": "Not announced. Admissions close 31 Aug 2027"
+    }
+   ]
+  },
+  "iift": {
+   "checked": "2026-11-16",
+   "closes": "2026-11-25",
+   "closesTime": "11:59 PM",
+   "dateStatus": "confirmed",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "50% in graduation"
+    },
+    {
+     "label": "Seats, MBA (IB)",
+     "value": "Delhi 240, Kolkata 240, Kakinada 120, GIFT City 120"
+    },
+    {
+     "label": "Interview cities",
+     "value": "Include Mumbai, Delhi and Bangalore"
+    },
+    {
+     "label": "Programme fee",
+     "value": "₹19.73 lakh for the 2026-28 batch. The 2027-29 figure comes with the offer letter"
+    }
+   ],
+   "fee": 3000,
+   "feeText": "₹3,000 for MBA (IB). MBA (Business Analytics) is a separate ₹2,000",
+   "group": "tier1",
+   "name": "IIFT",
+   "notes": "Delhi is the tier 1 campus. The same MBA (IB) form also covers Kolkata, Kakinada and GIFT City.",
+   "official": true,
+   "opens": "2026-10-12",
+   "order": 2,
+   "portal": "https://www.iift.ac.in/",
+   "programme": "MBA (International Business)",
+   "route": "Uses your CAT 2026 score",
+   "short": "IIFT",
+   "source": "https://www.iift.ac.in/uploads/manage-files/2026/10/brochure-mba-2027.pdf",
+   "sourceName": "IIFT brochure",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "Not announced. 3 Feb last cycle"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "GD and interview",
+     "when": "Not announced. From March last cycle"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final result",
+     "when": "Not announced"
+    }
+   ]
+  },
+  "iit-bombay-sjmsom": {
+   "checkNote": "SJMSOM's site still shows the 2026-28 schedule and its application portal is not active yet.",
+   "checked": "2026-11-16",
+   "dateStatus": "expected",
+   "estCloses": "2027-01-31",
+   "estOpens": "2027-01-04",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "60% or 6.5 CPI in graduation"
+    }
+   ],
+   "fee": 1600,
+   "feeText": "About ₹1,600 (expected)",
+   "group": "tier1",
+   "name": "IIT Bombay (SJMSOM)",
+   "notes": "Needs 60% in graduation. The form usually opens around the CAT result. Exact dates are not out yet.",
+   "official": false,
+   "order": 7,
+   "portal": "https://www.som.iitb.ac.in/master-of-business-administration-programme/",
+   "programme": "MBA",
+   "route": "Uses your CAT 2026 score",
+   "short": "IIT Bombay",
+   "source": "https://cracku.in/mba-form-2027/",
+   "sourceName": "Cracku",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "Interview",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final result",
+     "when": "Not announced"
+    }
+   ],
+   "windowText": "Expected first week to last week of Jan 2027"
+  },
+  "iit-delhi-dms": {
+   "checked": "2026-11-16",
+   "closes": "2027-01-25",
+   "dateStatus": "tentative",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "60% or 6.0 CGPA in graduation"
+    },
+    {
+     "label": "Form fee",
+     "value": "About ₹1,600 last cycle. Not on the DMS site yet"
+    }
+   ],
+   "fee": 1600,
+   "feeText": "About ₹1,600 for one programme (last cycle's figure, confirm when the form opens)",
+   "group": "tier1",
+   "name": "IIT Delhi (DMS)",
+   "notes": "Needs 60% in graduation. Opens the day after CAT, so there is nothing to do before the exam.",
+   "official": true,
+   "opens": "2026-11-30",
+   "order": 6,
+   "portal": "https://dms.iitd.ac.in/admission-mba/",
+   "programme": "MBA",
+   "route": "Uses your CAT 2026 score",
+   "short": "IIT Delhi",
+   "source": "https://dms.iitd.ac.in/admission-mba-telecom/",
+   "sourceName": "DMS IIT Delhi site",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "Interview",
+     "when": "To be updated soon, says DMS"
+    },
+    {
+     "dateStatus": "tentative",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Admission result",
+     "when": "First week of May 2027"
+    }
+   ]
+  },
+  "isb-pgp": {
+   "checked": "2026-11-10",
+   "closes": "2026-12-06",
+   "dateStatus": "confirmed",
+   "feeText": "About ₹5,000 (confirm on the ISB form)",
+   "group": "optional",
+   "name": "ISB (PGP)",
+   "notes": "Only worth it if you plan to take the GMAT or GRE. Needs 24 months of full-time work by the programme start. This is Round 2; Round 3 closes 17 Jan 2027. ISB's CAT route (PGP YL) is only for people with under 24 months of work.",
+   "official": false,
+   "order": 10,
+   "portal": "https://www.isb.edu/programmes/post-graduate-programmes/pgp-in-management/eligibility-and-requirements",
+   "programme": "One-year PGP",
+   "route": "GMAT or GRE only, not CAT",
+   "short": "ISB",
+   "source": "https://www.shiksha.com/college/indian-school-of-business-hyderabad-gachibowli-28444/admission",
+   "sourceName": "Shiksha"
+  },
+  "jbims-mah-cet": {
+   "checkNote": "The CET Cell site has nothing for 2027 yet. Last cycle, registration ran from 10 Jan to 20 Feb 2026.",
+   "checked": "2026-11-16",
+   "dateStatus": "expected",
+   "estCloses": "2027-02-20",
+   "estOpens": "2027-01-10",
+   "feeText": "Not announced (₹1,000 to ₹1,500 reported for the open category)",
+   "formLabel": "MAH-CET registration",
+   "group": "tier1",
+   "name": "JBIMS Mumbai (through MAH-MBA/MMS CET 2027)",
+   "notes": "The CET Cell has not released the 2027 schedule yet. JBIMS fills its seats through Maharashtra's CAP counselling around July, using MAH-CET, CAT or CMAT scores.",
+   "official": false,
+   "order": 8,
+   "portal": "https://cetcell.mahacet.org/",
+   "programme": "MMS",
+   "route": "Separate exam: MAH-CET",
+   "short": "JBIMS",
+   "source": "https://www.mbauniverse.com/mah-mba-cet",
+   "sourceName": "MBAUniverse",
+   "stages": [
+    {
+     "dateStatus": "expected",
+     "key": "exam",
+     "kind": "exam",
+     "label": "MAH-MBA/MMS CET",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "CAP registration and merit list",
+     "when": "Not announced. July last cycle"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Seat allotment",
+     "when": "Not announced"
+    }
+   ],
+   "windowText": "Registration expected Jan to Feb 2027"
+  },
+  "mdi-gurgaon": {
+   "checked": "2026-11-16",
+   "closes": "2026-11-28",
+   "closesTime": "5:00 PM",
+   "dateStatus": "confirmed",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "50% in Class X, Class XII and graduation"
+    },
+    {
+     "label": "No edits",
+     "value": "Personal and academic details cannot be changed after you submit"
+    },
+    {
+     "label": "Work experience",
+     "value": "Can be updated till 31 Mar 2027 if you are shortlisted"
+    },
+    {
+     "label": "PGDM-IB",
+     "value": "Needs 1 year of work experience as on 31 Jan 2027"
+    }
+   ],
+   "fee": 3000,
+   "feeText": "₹3,000 for every MDI Gurgaon programme. ₹3,590 if you add MDI Murshidabad",
+   "group": "tier1",
+   "name": "MDI Gurgaon",
+   "notes": "Closes at 5 PM on the evening before CAT, and you cannot correct the form after submitting. Finish it well before exam week.",
+   "official": true,
+   "opens": "2026-09-24",
+   "order": 4,
+   "portal": "https://admissions.mdi.ac.in/",
+   "programme": "PGDM, PGDM-HRM, PGDM-IB, PGDM-BA",
+   "route": "Uses your CAT 2026 score",
+   "short": "MDI",
+   "source": "https://admissions.mdi.ac.in/mdi-application-form",
+   "sourceName": "MDI application page",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "GD and interview",
+     "when": "Not announced"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final result",
+     "when": "Not announced"
+    }
+   ]
+  },
+  "nmat-nmims": {
+   "checked": "2026-11-10",
+   "closes": "2026-10-31",
+   "dateStatus": "confirmed",
+   "feeText": "Closed",
+   "group": "optional",
+   "name": "NMIMS Mumbai (through NMAT 2026)",
+   "notes": "Registration for this cycle is over (NMAT closed 25 Oct, the NMIMS form 31 Oct). Listed so you know it is off the table unless you had already registered.",
+   "official": false,
+   "opens": "2026-08-20",
+   "order": 12,
+   "programme": "MBA",
+   "route": "Separate exam: NMAT",
+   "short": "NMIMS",
+   "source": "https://www.pw.live/mba/exams/nmat-2026-registration-deadline-extended",
+   "sourceName": "PW"
+  },
+  "snap-sibm-pune": {
+   "checked": "2026-11-10",
+   "closes": "2026-11-25",
+   "dateStatus": "confirmed",
+   "examDate": "2026-12-13",
+   "examName": "SNAP test 1 (also 19 and 26 Dec)",
+   "fee": 3550,
+   "feeText": "₹2,550 per test + ₹1,000 per programme, taxes extra",
+   "formLabel": "SNAP registration",
+   "group": "optional",
+   "name": "SIBM Pune (through SNAP 2026)",
+   "notes": "Most lists place SIBM Pune just below tier 1. Apply only if you want a backup with its own exam in December.",
+   "official": false,
+   "opens": "2026-08-21",
+   "order": 11,
+   "portal": "https://www.snaptest.org",
+   "programme": "MBA",
+   "route": "Separate exam: SNAP",
+   "short": "SIBM Pune",
+   "source": "https://www.snaptest.org/blogs/snap-test-faq",
+   "sourceName": "SNAP official FAQ",
+   "stages": [
+    {
+     "date": "2026-12-13",
+     "dateStatus": "confirmed",
+     "key": "exam",
+     "kind": "exam",
+     "label": "SNAP 2026",
+     "note": "Other test dates: 19 and 26 Dec."
+    }
+   ]
+  },
+  "spjimr": {
+   "checked": "2026-11-16",
+   "closes": "2026-11-27",
+   "dateStatus": "confirmed",
+   "facts": [
+    {
+     "label": "Eligibility",
+     "value": "50% in graduation. Freshers and up to 5 years of work experience"
+    },
+    {
+     "label": "Seats",
+     "value": "PGDM 240, PGDM (BM) 120"
+    },
+    {
+     "label": "Scores taken",
+     "value": "CAT 2026, or GMAT taken between 1 Jan 2024 and 10 Dec 2026"
+    },
+    {
+     "label": "After the CAT result",
+     "value": "The form reopens so you can add your score"
+    },
+    {
+     "label": "Specialisation",
+     "value": "Pick two preferences: Finance, Information Management and Analytics, Marketing, Operations and Supply Chain"
+    },
+    {
+     "label": "Programme fee",
+     "value": "About ₹24.86 lakh, indicative"
+    }
+   ],
+   "fee": 2500,
+   "feeText": "₹2,500 for Indian applicants. SPJIMR says this can be revised",
+   "group": "tier1",
+   "name": "SPJIMR Mumbai",
+   "notes": "One form covers both programmes. SPJIMR shortlists heavily on your profile, so give this form a proper sitting.",
+   "official": true,
+   "opens": "2026-09-15",
+   "order": 3,
+   "portal": "https://pgdmadmissions.spjimr.org/",
+   "programme": "PGDM and PGDM (BM)",
+   "route": "Uses your CAT 2026 score",
+   "short": "SPJIMR",
+   "source": "https://www.spjimr.org/course/post-graduate-diploma-in-management-pgdm/admissions/",
+   "sourceName": "SPJIMR admissions page",
+   "stages": [
+    {
+     "key": "exam",
+     "kind": "exam",
+     "label": "CAT 2026",
+     "sameAs": "cat-2026"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview call",
+     "when": "Not announced. Before the Jan to Feb interviews"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "interview",
+     "kind": "interview",
+     "label": "Interviews",
+     "when": "Usually Jan and Feb"
+    },
+    {
+     "dateStatus": "expected",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Final result",
+     "when": "Usually March"
+    }
+   ]
+  },
+  "xat-xlri": {
+   "checked": "2026-11-16",
+   "closes": "2026-12-06",
+   "dateStatus": "confirmed",
+   "examDate": "2027-01-03",
+   "examName": "XAT 2027",
+   "facts": [
+    {
+     "label": "Exam",
+     "value": "3 Jan 2027, 2 PM to 5 PM. Has a Decision Making section that CAT does not"
+    },
+    {
+     "label": "Programme fee",
+     "value": "₹15.25 lakh a year. Mess and hostel are extra"
+    },
+    {
+     "label": "Session begins",
+     "value": "Mid-June 2027"
+    }
+   ],
+   "fee": 2700,
+   "feeText": "₹2,300 for XAT + ₹200 per XLRI programme (₹2,700 for BM and HRM)",
+   "formLabel": "XAT registration",
+   "group": "tier1",
+   "name": "XLRI (through XAT 2027)",
+   "notes": "XLRI does not take CAT. XAT is its own exam on 3 Jan, 2 PM to 5 PM, and has a Decision Making section that CAT does not.",
+   "official": true,
+   "opens": "2026-07-15",
+   "order": 5,
+   "portal": "https://xatonline.in",
+   "programme": "PGDM (BM) and PGDM (HRM)",
+   "route": "Separate exam: XAT",
+   "short": "XLRI",
+   "source": "https://xlri.ac.in/academic-programmes/admission-procedure",
+   "sourceName": "XLRI admission page",
+   "stages": [
+    {
+     "date": "2027-01-03",
+     "dateStatus": "confirmed",
+     "key": "exam",
+     "kind": "exam",
+     "label": "XAT 2027",
+     "note": "Admit card from 20 Dec 2026 (tentative).",
+     "time": "2:00 PM"
+    },
+    {
+     "dateStatus": "confirmed",
+     "key": "shortlist",
+     "kind": "shortlist",
+     "label": "Interview shortlist",
+     "when": "End of Jan 2027"
+    },
+    {
+     "dateStatus": "confirmed",
+     "key": "interview",
+     "kind": "interview",
+     "label": "Interviews",
+     "when": "Mid-Feb to mid-Mar 2027"
+    },
+    {
+     "dateStatus": "confirmed",
+     "key": "offer",
+     "kind": "offer",
+     "label": "Offers and waitlist",
+     "when": "April 2027"
+    }
+   ]
+  }
+ }
+}

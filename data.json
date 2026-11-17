@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-16T15:32:12Z",
+ "checkedAt": "2026-11-17T04:55:00Z",
  "note": "No changes today",
  "forms": {
   "cat-2026": {
@@ -73,7 +73,7 @@
   },
   "fms-delhi": {
    "checkNote": "Fee, eligibility and selection weights are from the FMS bulletin. The bulletin does not print the closing date, so 25 Nov comes from MBAUniverse and Careers360.",
-   "checked": "2026-11-16",
+   "checked": "2026-11-17",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "facts": [
@@ -139,7 +139,7 @@
    ]
   },
   "iift": {
-   "checked": "2026-11-16",
+   "checked": "2026-11-17",
    "closes": "2026-11-25",
    "closesTime": "11:59 PM",
    "dateStatus": "confirmed",
@@ -382,7 +382,7 @@
    "windowText": "Registration expected Jan to Feb 2027"
   },
   "mdi-gurgaon": {
-   "checked": "2026-11-16",
+   "checked": "2026-11-17",
    "closes": "2026-11-28",
    "closesTime": "5:00 PM",
    "dateStatus": "confirmed",
@@ -466,8 +466,8 @@
    "sourceName": "PW"
   },
   "snap-sibm-pune": {
-   "checkNote": "Closing date, test dates and result date are from the SNAP important dates page. The fee was not re-read on the official site today.",
-   "checked": "2026-11-16",
+   "checkNote": "Closing date, fee, test dates and result date were read on the SNAP site. SNAP says the bulletin has the final word and dates can change.",
+   "checked": "2026-11-17",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "examDate": "2026-12-13",
@@ -478,15 +478,15 @@
    "group": "optional",
    "name": "SIBM Pune (through SNAP 2026)",
    "notes": "Most lists place SIBM Pune just below tier 1. Apply only if you want a backup with its own exam in December.",
-   "official": false,
+   "official": true,
    "opens": "2026-08-21",
    "order": 11,
    "portal": "https://www.snaptest.org",
    "programme": "MBA",
    "route": "Separate exam: SNAP",
    "short": "SIBM Pune",
-   "source": "https://www.snaptest.org/snap-important-dates",
-   "sourceName": "SNAP important dates page",
+   "source": "https://www.snaptest.org/blogs/snap-2026-registration-open-dates-fees-how-to-apply",
+   "sourceName": "SNAP official site",
    "stages": [
     {
      "date": "2026-12-13",
@@ -508,7 +508,7 @@
    ]
   },
   "spjimr": {
-   "checked": "2026-11-16",
+   "checked": "2026-11-17",
    "closes": "2026-11-27",
    "dateStatus": "confirmed",
    "facts": [
@@ -582,7 +582,7 @@
    ]
   },
   "xat-xlri": {
-   "checked": "2026-11-16",
+   "checked": "2026-11-17",
    "closes": "2026-12-06",
    "dateStatus": "confirmed",
    "examDate": "2027-01-03",
@@ -614,8 +614,8 @@
    "programme": "PGDM (BM) and PGDM (HRM)",
    "route": "Separate exam: XAT",
    "short": "XLRI",
-   "source": "https://xlri.ac.in/academic-programmes/admission-procedure",
-   "sourceName": "XLRI admission page",
+   "source": "https://xatonline.in/registration",
+   "sourceName": "XAT registration page",
    "stages": [
     {
      "date": "2027-01-03",

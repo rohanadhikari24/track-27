@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-17T04:55:00Z",
+ "checkedAt": "2026-11-20T04:43:37Z",
  "note": "No changes today",
  "forms": {
   "cat-2026": {
@@ -73,7 +73,7 @@
   },
   "fms-delhi": {
    "checkNote": "Fee, eligibility and selection weights are from the FMS bulletin. The bulletin does not print the closing date, so 25 Nov comes from MBAUniverse and Careers360.",
-   "checked": "2026-11-17",
+   "checked": "2026-11-20",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "facts": [
@@ -139,7 +139,7 @@
    ]
   },
   "iift": {
-   "checked": "2026-11-17",
+   "checked": "2026-11-20",
    "closes": "2026-11-25",
    "closesTime": "11:59 PM",
    "dateStatus": "confirmed",
@@ -173,8 +173,8 @@
    "programme": "MBA (International Business)",
    "route": "Uses your CAT 2026 score",
    "short": "IIFT",
-   "source": "https://www.iift.ac.in/uploads/manage-files/2026/10/brochure-mba-2027.pdf",
-   "sourceName": "IIFT brochure",
+   "source": "https://www.iift.ac.in/admission-iift",
+   "sourceName": "IIFT admissions page",
    "stages": [
     {
      "key": "exam",
@@ -262,7 +262,7 @@
    "windowText": "Expected first week to last week of Jan 2027"
   },
   "iit-delhi-dms": {
-   "checked": "2026-11-16",
+   "checked": "2026-11-20",
    "closes": "2027-01-25",
    "dateStatus": "tentative",
    "facts": [
@@ -382,7 +382,7 @@
    "windowText": "Registration expected Jan to Feb 2027"
   },
   "mdi-gurgaon": {
-   "checked": "2026-11-17",
+   "checked": "2026-11-20",
    "closes": "2026-11-28",
    "closesTime": "5:00 PM",
    "dateStatus": "confirmed",
@@ -508,7 +508,7 @@
    ]
   },
   "spjimr": {
-   "checked": "2026-11-17",
+   "checked": "2026-11-20",
    "closes": "2026-11-27",
    "dateStatus": "confirmed",
    "facts": [
@@ -582,7 +582,7 @@
    ]
   },
   "xat-xlri": {
-   "checked": "2026-11-17",
+   "checked": "2026-11-20",
    "closes": "2026-12-06",
    "dateStatus": "confirmed",
    "examDate": "2027-01-03",

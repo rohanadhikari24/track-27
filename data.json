@@ -1,10 +1,10 @@
 {
- "checkedAt": "2026-11-22T04:43:24Z",
- "note": "MAH-MBA/MMS CET 2027 (for JBIMS) now has tentative exam dates: 28 to 30 Jan and 1 to 3 Apr 2027. No other date or fee changes.",
+ "checkedAt": "2026-11-23T04:43:37Z",
+ "note": "No changes today",
  "forms": {
   "cat-2026": {
    "checkNote": "The exam date is confirmed. The later dates are the usual pattern, not announcements.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-09-22",
    "dateStatus": "confirmed",
    "examDate": "2026-11-29",
@@ -73,7 +73,7 @@
   },
   "fms-delhi": {
    "checkNote": "Fee, eligibility and selection weights are from the FMS bulletin. The bulletin does not print the closing date, so 25 Nov comes from MBAUniverse and Careers360.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "facts": [
@@ -140,7 +140,7 @@
   },
   "iift": {
    "checkNote": "The site header banner shows 30 Nov 2026, but that banner is for the separate PGDM (IB) programme. The MBA (IB) admissions section still says 25 Nov 2026.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-11-25",
    "closesTime": "11:59 PM",
    "dateStatus": "confirmed",
@@ -208,7 +208,7 @@
   },
   "iit-bombay-sjmsom": {
    "checkNote": "SJMSOM's site still shows the 2026-28 schedule and says the last date will be declared soon.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "dateStatus": "expected",
    "estCloses": "2027-01-31",
    "estOpens": "2027-01-04",
@@ -264,7 +264,7 @@
   },
   "iit-delhi-dms": {
    "checkNote": "The DMS MBA admission page still shows an old cycle, so the 30 Nov opening is not yet confirmed on a 2027 notice.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2027-01-25",
    "dateStatus": "tentative",
    "facts": [
@@ -323,7 +323,7 @@
   },
   "isb-pgp": {
    "checkNote": "Round 2 (6 Dec 2026) and Round 3 (17 Jan 2027) deadlines are from ISB's own deadlines page. The form fee is not shown there, so the fee is not confirmed officially.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-12-06",
    "dateStatus": "confirmed",
    "feeText": "About ₹5,000 (confirm on the ISB form)",
@@ -341,7 +341,7 @@
   },
   "jbims-mah-cet": {
    "checkNote": "The CET Cell posted a 2027 exam calendar notice on 16 Nov 2026. The exam dates come from CareerIndia, Careers360 and Cracku, which agree. Registration dates are not out yet.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "dateStatus": "expected",
    "estCloses": "2027-02-20",
    "estOpens": "2027-01-10",
@@ -386,7 +386,7 @@
    "windowText": "Registration dates not announced. Exam from 28 Jan 2027 (tentative)"
   },
   "mdi-gurgaon": {
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-11-28",
    "closesTime": "5:00 PM",
    "dateStatus": "confirmed",
@@ -472,7 +472,7 @@
   },
   "snap-sibm-pune": {
    "checkNote": "Closing date, fee, test dates and result date were read on the SNAP site. SNAP says the bulletin has the final word and dates can change.",
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "examDate": "2026-12-13",
@@ -513,7 +513,7 @@
    ]
   },
   "spjimr": {
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-11-27",
    "dateStatus": "confirmed",
    "facts": [
@@ -587,7 +587,7 @@
    ]
   },
   "xat-xlri": {
-   "checked": "2026-11-22",
+   "checked": "2026-11-23",
    "closes": "2026-12-06",
    "dateStatus": "confirmed",
    "examDate": "2027-01-03",

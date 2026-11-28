@@ -1,10 +1,10 @@
 {
- "checkedAt": "2026-11-27T07:20:57Z",
- "note": "IIFT MBA (IB) deadline reported extended to 8 Dec 2026 (Cracku and Shiksha, not yet on the IIFT site).",
+ "checkedAt": "2026-11-28T04:44:06Z",
+ "note": "IIFT's own admission page now shows the 8 Dec 2026 deadline for MBA (IB), so it is marked confirmed.",
  "forms": {
   "cat-2026": {
    "checkNote": "The exam date is confirmed. The later dates are the usual pattern, not announcements.",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "closes": "2026-09-22",
    "dateStatus": "confirmed",
    "examDate": "2026-11-29",
@@ -73,7 +73,7 @@
   },
   "fms-delhi": {
    "checkNote": "Fee, eligibility and selection weights are from the FMS bulletin. The bulletin does not print the closing date, so 25 Nov comes from MBAUniverse and Careers360. No extension had been reported as of 27 Nov.",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "closes": "2026-11-25",
    "dateStatus": "confirmed",
    "facts": [
@@ -139,10 +139,10 @@
    ]
   },
   "iift": {
-   "checkNote": "Cracku and Shiksha both report on 26 Nov that the deadline moved from 25 Nov to 8 Dec 2026. The IIFT admissions page still shows 25 Nov and gives no closing time. Fees are unchanged on the IIFT page.",
-   "checked": "2026-11-27",
+   "checkNote": "The IIFT admission page banner (updated 26 Nov) says the last date is 8 Dec 2026, but its Key Dates table still shows 25 Nov, and no closing time is given. Fees are unchanged.",
+   "checked": "2026-11-28",
    "closes": "2026-12-08",
-   "dateStatus": "tentative",
+   "dateStatus": "confirmed",
    "facts": [
     {
      "label": "Eligibility",
@@ -166,15 +166,15 @@
    "group": "tier1",
    "name": "IIFT",
    "notes": "Delhi is the tier 1 campus. The same MBA (IB) form also covers Kolkata, Kakinada and GIFT City.",
-   "official": false,
+   "official": true,
    "opens": "2026-10-12",
    "order": 2,
    "portal": "https://www.iift.ac.in/",
    "programme": "MBA (International Business)",
    "route": "Uses your CAT 2026 score",
    "short": "IIFT",
-   "source": "https://cracku.in/iift-form-2027-last-date-extended/",
-   "sourceName": "Cracku and Shiksha",
+   "source": "https://www.iift.ac.in/admission-2027",
+   "sourceName": "IIFT admission 2027 page",
    "stages": [
     {
      "key": "exam",
@@ -262,8 +262,8 @@
    "windowText": "Expected first week to last week of Jan 2027"
   },
   "iit-delhi-dms": {
-   "checkNote": "The DMS MBA admission page still shows an old cycle, so the 30 Nov opening is not yet confirmed on a 2027 notice.",
-   "checked": "2026-11-27",
+   "checkNote": "The DMS MBA admission page still shows an old cycle as of 28 Nov, so the 30 Nov opening is not yet confirmed on a 2027 notice.",
+   "checked": "2026-11-28",
    "closes": "2027-01-25",
    "dateStatus": "tentative",
    "facts": [
@@ -385,7 +385,8 @@
    "windowText": "Registration dates not announced. Exam from 28 Jan 2027 (tentative)"
   },
   "mdi-gurgaon": {
-   "checked": "2026-11-27",
+   "checkNote": "The MDI page still says the form closes 28 Nov 2026 at 17:00 hrs. No extension notice was found.",
+   "checked": "2026-11-28",
    "closes": "2026-11-28",
    "closesTime": "5:00 PM",
    "dateStatus": "confirmed",
@@ -512,7 +513,8 @@
    ]
   },
   "spjimr": {
-   "checked": "2026-11-27",
+   "checkNote": "No extension notice was found on the SPJIMR site as of 28 Nov. The form reopens after the CAT result to add the score.",
+   "checked": "2026-11-28",
    "closes": "2026-11-27",
    "dateStatus": "confirmed",
    "facts": [
@@ -586,7 +588,8 @@
    ]
   },
   "xat-xlri": {
-   "checked": "2026-11-27",
+   "checkNote": "Registration close of 6 Dec 2026 and the 3 Jan 2027 exam are from the XAT site. No extension was found as of 28 Nov.",
+   "checked": "2026-11-28",
    "closes": "2026-12-06",
    "dateStatus": "confirmed",
    "examDate": "2027-01-03",
